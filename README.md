@@ -1,5 +1,3 @@
-# kubernetes-de-a-z
-
 # 🚀 #1Jour1ConceptDevOps – Kubernetes de A à Z
 
 Bienvenue dans ma série #1Jour1ConceptDevOps dédiée à Kubernetes !  
