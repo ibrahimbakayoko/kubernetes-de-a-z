@@ -31,7 +31,7 @@ Chaque semaine, je partage un thème clé du cluster avec :
 ## 🧪 Labs disponibles
 | Semaine | Sujet | Labs |
 |----------|--------|------|
-| 01 | Architecture du cluster | [Lab1]([01-architecture-cluster/lab1-control-plane.md](https://github.com/ibrahimbakayoko/kubernetes-de-a-z/tree/main/Architecture-du-cluster)), [Lab2](01-architecture-cluster/lab2-namespaces.md) |
+| 01 | Architecture du cluster | [Lab1](https://github.com/ibrahimbakayoko/kubernetes-de-a-z/tree/main/Architecture-du-cluster), [Lab2](01-architecture-cluster/lab2-namespaces.md) |
 | 02 | Pods & Deployments | À venir |
 | 03 | Services & Networking | À venir |
 
