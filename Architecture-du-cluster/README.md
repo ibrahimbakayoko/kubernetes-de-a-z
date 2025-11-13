@@ -38,8 +38,8 @@
 ## 🚀 Démarrage rapide
 
 ```bash
-git clone https://github.com/ton-utilisateur/lab-kubernetes-cluster
-cd lab-kubernetes-cluster
+git clone https://github.com/ibrahimbakayoko/kubernetes-de-a-z
+cd kubernetes-de-a-z
 ```
 
 ---
