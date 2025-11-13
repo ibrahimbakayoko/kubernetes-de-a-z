@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ibrahimbakayoko/kubernetes-de-a-z/main/Docs/ARCHITECTURE_K8S.png" alt="Architecture du cluster Kubernetes" width="800"/>
+</p>
+
+<p align="center"><em>Schéma général du cluster Kubernetes utilisé pour la série #1Jour1ConceptDevOps</em></p>
+
+# 🚀 #1Jour1ConceptDevOps – Kubernetes de A à Z
+
 # 🚀 #1Jour1ConceptDevOps – Kubernetes de A à Z
 
 Bienvenue dans ma série #1Jour1ConceptDevOps dédiée à Kubernetes !  
