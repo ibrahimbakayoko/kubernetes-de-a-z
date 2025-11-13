@@ -12,8 +12,6 @@
 - Comprendre la structure d’un cluster Kubernetes
 - Identifier les rôles des nœuds (master / worker)
 - Observer les composants système essentiels
-- Déployer un pod simple (nginx)
-- Introduire les namespaces et le contexte utilisateur
 
 ---
 
@@ -49,9 +47,9 @@ cd kubernetes-de-a-z
 👉 Retrouvez toutes les étapes détaillées, captures d’écran et explications dans le Wiki du projet
 
 🧭 Prochaines étapes
-Lab2 – Pods & Deployments
+- Lab2 – Pods & Deployments
 
-Lab3 – Services & Networking
+- Lab3 – Services & Networking
 
 
 
