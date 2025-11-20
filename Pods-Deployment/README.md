@@ -46,7 +46,7 @@ cd kubernetes-de-a-z
 
 ## 📚 Documentation complète
 👉 Retrouvez toutes les étapes détaillées, schémas et explications dans le Wiki du projet
-📂 Accès complet
+📂 Accès complet  
 📘 Wiki : [https://lnkd.in/eFYtQCAv](https://github.com/ibrahimbakayoko/kubernetes-de-a-z/wiki/Lab-2-%E2%80%93-Pods-&-Deployments)   
 📘 GitHub : [https://lnkd.in/edud6wXX](https://github.com/ibrahimbakayoko/kubernetes-de-a-z/tree/main/Pods-Deployment)
 
