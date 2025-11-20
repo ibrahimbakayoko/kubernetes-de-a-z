@@ -1,9 +1,7 @@
+# 🚀 Lab2 – Pods & Deployments
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibrahimbakayoko/kubernetes-de-a-z/main/Docs/ARCHITECTURE_POD_DEPLOY_GITHUB.png" alt="Architecture du cluster Kubernetes" width="800"/>
 </p>
-
-# 🚀 Lab2 – Pods & Deployments
-
 Bienvenue dans le **Lab2 – Pods & Deployments** !  
 Dans ce deuxième lab, vous allez explorer l’unité fondamentale d’exécution dans Kubernetes : le **Pod**, ainsi que la ressource la plus utilisée pour gérer vos applications : le **Deployment**.
 
