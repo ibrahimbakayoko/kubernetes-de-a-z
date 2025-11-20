@@ -58,4 +58,7 @@ cd kubernetes-de-a-z
 ➡️ Lab5 – Volumes & Persistences
 
 👤 Auteur
-Brahima BAKAYOKO   📍 Achères, Île-de-France   💼 Auteur du Lab Kubernetes – Pods & Deployments   📫 Contact : ibra.bakayoko82@gmail.com
+Brahima BAKAYOKO   
+📍 Achères, Île-de-France   
+💼 Auteur du Lab Kubernetes – Pods & Deployments   
+📫 Contact : ibra.bakayoko82@gmail.com
