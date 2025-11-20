@@ -42,8 +42,7 @@ Vous apprendrez comment Kubernetes assure la **scalabilité**, la **tolérance a
 ## 🚀 Démarrage rapide
 
 ```bash
-git clone https://github.com/ibrahimbakayoko/kubernetes-de-a-z
-cd kubernetes-de-a-z
+git clone https://github.com/ibrahimbakayoko/kubernetes-de-a-z.wiki.git
 ```
 
 ## 📚 Documentation complète
