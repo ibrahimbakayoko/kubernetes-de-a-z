@@ -43,8 +43,8 @@ kubectl apply -f nginx-service.yaml
 ```
 ## 📚 Documentation complète   
 Retrouvez toutes les étapes détaillées, schémas et explications dans le Wiki du projet 📂 Accès complet   
-Wiki : https://lnkd.in/eFYtQCAv   
-GitHub : https://lnkd.in/edud6wXX
+Wiki : https://github.com/ibrahimbakayoko/kubernetes-de-a-z/wiki/Lab3%E2%80%90%E2%80%90%E2%80%90etape0%E2%80%90%E2%80%90%E2%80%90Services-&-Networking  
+GitHub : https://github.com/ibrahimbakayoko/kubernetes-de-a-z/tree/main/lab3-service
 
 ## 🧭 Prochaines étapes ➡️ Lab4 – ConfigMaps & Secrets
 
