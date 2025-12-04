@@ -1,4 +1,3 @@
-markdown
 # Lab3 – Services & Networking
 Architecture réseau du cluster Kubernetes
 
