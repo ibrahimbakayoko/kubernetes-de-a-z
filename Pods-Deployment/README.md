@@ -1,5 +1,7 @@
 # 🚀 Lab2 – Pods & Deployments
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ibrahimbakayoko/kubernetes-de-a-z/main/Docs/ARCHITECTURE_POD_DEPLOY_GITHUB.png" alt="Architecture du cluster Kubernetes" width="800"/>
+</p>
 Bienvenue dans le **Lab2 – Pods & Deployments** !  
 Dans ce deuxième lab, vous allez explorer l’unité fondamentale d’exécution dans Kubernetes : le **Pod**, ainsi que la ressource la plus utilisée pour gérer vos applications : le **Deployment**.
 
@@ -40,12 +42,14 @@ Vous apprendrez comment Kubernetes assure la **scalabilité**, la **tolérance a
 ## 🚀 Démarrage rapide
 
 ```bash
-git clone https://github.com/ibrahimbakayoko/kubernetes-de-a-z
-cd kubernetes-de-a-z
+git clone https://github.com/ibrahimbakayoko/kubernetes-de-a-z.wiki.git
 ```
 
 ## 📚 Documentation complète
 👉 Retrouvez toutes les étapes détaillées, schémas et explications dans le Wiki du projet
+📂 Accès complet  
+📘 Wiki : [https://lnkd.in/eFYtQCAv](https://github.com/ibrahimbakayoko/kubernetes-de-a-z/wiki/Lab-2-%E2%80%93-Pods-&-Deployments)   
+📘 GitHub : [https://lnkd.in/edud6wXX](https://github.com/ibrahimbakayoko/kubernetes-de-a-z/tree/main/Pods-Deployment)
 
 ## 🧭 Prochaines étapes
 ➡️ Lab3 – Services & Networking
@@ -55,4 +59,7 @@ cd kubernetes-de-a-z
 ➡️ Lab5 – Volumes & Persistences
 
 👤 Auteur
-Brahima BAKAYOKO 📍 Achères, Île-de-France 💼 Auteur du Lab Kubernetes – Pods & Deployments 📫 Contact : ibra.bakayoko82@gmail.com
+Brahima BAKAYOKO   
+📍 Achères, Île-de-France   
+💼 Auteur du Lab Kubernetes – Pods & Deployments   
+📫 Contact : ibra.bakayoko82@gmail.com
